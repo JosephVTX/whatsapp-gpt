@@ -1,0 +1,5 @@
+auth_whatsapp/
+build/
+.env
+.vscode/
+node_modules/
